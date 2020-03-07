@@ -24,3 +24,7 @@ ul li:hover{
     transition: 0.6s ease;
     color: black;
 }
+
+a, a:visited, a:link {
+    color: white;
+}
