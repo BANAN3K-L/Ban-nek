@@ -25,3 +25,7 @@ body {
 .item {
     margin: 0;
 }
+img {display:flex;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 300px;}
