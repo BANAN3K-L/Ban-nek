@@ -1,0 +1,27 @@
+h1 {
+    color:red;
+text-shadow:3px 2px black;
+
+    text-align:center;
+font-size: 5em;}
+body {
+    
+    background-image:url(../space.png);
+    font-family:fantasy;}
+    p {font-size: 1.5em;}
+    .item{
+        order:1 ;
+        max-width: 30vw;
+    }
+    p {
+        text-shadow: 3px 2px black;
+        color:white;}
+
+#container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.item {
+    margin: 0;
+}
