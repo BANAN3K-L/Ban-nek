@@ -32,6 +32,11 @@ a, a:visited, a:link {
 img{
     width: 500px;
     height: 500px;
-    margin: auto;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
