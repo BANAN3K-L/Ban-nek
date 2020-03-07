@@ -38,3 +38,20 @@ p{
 .uran{
     margin: 0;
 }
+ul li{
+    text-align: left;
+    color: white;
+    transition: 0.6s ease;
+    font-size: 2em;
+}
+
+ul li:hover{
+    color: black;
+    transition: 0.6s ease;
+
+
+}
+
+a, a:visited, a:link {
+    color: white;
+}
