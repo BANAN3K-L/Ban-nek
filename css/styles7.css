@@ -3,17 +3,21 @@ h1 {
 text-shadow:3px 2px black;
 
     text-align:center;
-font-size: em;}
+font-size: 5em;}
 body {
     background-image:url(../space.png);
     font-family:fantasy;}
         
      p {text-shadow: 3px 2px black;
-        color:white;}
+        color:white;
+        font-size: 2em;
+    }
     
         .item{
         order:1 ;
-        max-width: 30vw;}
+        max-width: 30vw;
+    
+    }
    
     
    
