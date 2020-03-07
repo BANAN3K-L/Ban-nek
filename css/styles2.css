@@ -1,15 +1,26 @@
 body {color:white;
-    background-image:url(../sun1.jpg)}
+    background-image: url(galaxy.jpg);}
 
 
-div   {
+p   {
     font-family: fantasy;
+    float: left;
+    font-size: 40px;
+    text-shadow: 3px 2px  black;
 } 
-    
-   
-   
-    h1,h2{ text-align: center;} 
-    
+    h1,h2{ 
+        text-shadow: 3px 2px  black;
+        text-align: center;} 
+
+
+    #container {
+        display: flex;
+    }
+
+    .item {
+        order: 1;
+        max-width: 30vw;
+    }
 
 
 
