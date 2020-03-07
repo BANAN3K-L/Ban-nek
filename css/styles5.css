@@ -30,3 +30,21 @@ img {display:flex;
     margin: 0 auto;
     border-radius: 130px;
     width:30vw;}
+
+    ul li{
+        text-align: left;
+        color: white;
+        transition: 0.6s ease;
+        font-size: 2em;
+    }
+    
+    ul li:hover{
+        color: black;
+        transition: 0.6s ease;
+    
+    
+    }
+    
+    a, a:visited, a:link {
+        color: white;
+    }
