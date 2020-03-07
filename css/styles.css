@@ -28,3 +28,10 @@ ul li:hover{
 a, a:visited, a:link {
     color: white;
 }
+
+img{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+
+}
