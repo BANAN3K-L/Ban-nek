@@ -3,12 +3,12 @@ h1 {
 text-shadow:3px 2px black;
 
     text-align:center;
-font-size: 5em;}
+font-size: 100px;}
 body {
     
     background-image:url(space.png);
     font-family:fantasy;}
-    p {font-size: 1.5em;}
+    p {font-size: 12px;}
     .item{
         order:1 ;
         max-width: 30vw;
@@ -48,4 +48,8 @@ ul li:hover{
 
 a, a:visited, a:link {
     color: white;
+}
+.planeta {
+    max-height: 500px;
+    max-width: 500px;
 }
