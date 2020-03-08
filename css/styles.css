@@ -23,13 +23,14 @@ ul {
 ul li{
     color: white;
     transition: 0.6s ease;
-    font-size: 3em;
+    font-size: 2em;
     margin: 1;
 }
 
 ul li:hover{
     transition: 0.6s ease;
     color: black;
+
 }
 
 a, a:visited, a:link {
@@ -46,8 +47,10 @@ img{
     justify-content:space-around;
 }
 
-.item{
+.item1{
     margin: 0;
+    padding-left: 20px
+    
     
 } 
 
