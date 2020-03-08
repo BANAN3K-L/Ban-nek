@@ -60,6 +60,7 @@ img {
 #container {
     display: flex;
     justify-content:space-around;
+    flex-wrap: wrap ;
 }
 
 .item1 {
@@ -77,13 +78,32 @@ p {
 .wiki {
     padding:10;
 }
-
-.planet1{
+/*
+.planet1 {
     width: 750px;
 
 }
 
-.planet2{
+.planet2 {
     width: 700px;
 
+}
+
+.planet4 {
+    width: 750px;
+}
+
+.planet5 {
+    width: 650px;
+}
+
+.planet6 {
+    width: 700px;
+}
+*/
+
+.planet {
+    width: 27vw;
+    height: auto;;
+    margin-bottom: 3em;;
 }
