@@ -8,7 +8,7 @@ body {
     
     background-image:url(space.png);
     font-family:fantasy;}
-    p {font-size: 1.5em;}
+    p {font-size: 6px;}
     .item{
         order:1 ;
         max-width: 30vw;
