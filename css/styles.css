@@ -1,4 +1,4 @@
-body{
+body {
     margin:1;
     padding: 1;
     font-family: fantasy;
@@ -8,10 +8,12 @@ body{
     background-size: cover;
     height: 100vh;
 }
+
 .planeta {
     max-height: 5px;
 }
-h1{
+
+h1 {
     color: white;
     text-align: center;
     font-size: 5em;
@@ -20,7 +22,8 @@ h1{
 ul {
     width: 10vw;
 }
-ul li{
+
+ul li {
     color: white;
     transition: 0.6s ease;
     font-size: 2em;
@@ -28,18 +31,19 @@ ul li{
     text-decoration: none;
 
 }
-ul li:last-child{
+
+ul li:last-child {
     padding-top: 2em;
 }
 
-ul li:hover{
+ul li:hover {
     transition: 0.6s ease;
     color: black;
     text-decoration: none;
 
 }
 
-a:hover{
+a:hover {
     text-decoration: none;
     transition: 0.6s ease;
 }
@@ -48,30 +52,28 @@ a, a:visited, a:link {
     color: white;
 }
 
-img{
+img {
     width: 500px;
     height: 500px;
 }
 
-#container{
+#container {
     display: flex;
     justify-content:space-around;
 }
 
-.item1{
+.item1 {
     margin: 0;
     padding-left: 20px;
     padding:10;
-    
-    
 } 
 
-p{
+p {
     color: white;
     font-size: 2em;
     width: 30vw;
 }
 
-.wiki{
+.wiki {
     padding:10;
 }
