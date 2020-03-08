@@ -1,22 +1,27 @@
 h1 {
     color: white;
-text-shadow:3px 2px black;
-
+    text-shadow:3px 2px black;
     text-align:center;
-font-size: 5em;}
+    font-size: 5em;
+}
+
 body {
     
     background-image:url(space.png);
     font-family:fantasy;}
-    p {font-size: 20px;}
-    .item{
-        order:1 ;
-        max-width: 30vw;
-    }
-    p {
-        text-shadow: 3px 2px black;
-        color:white;
-    }
+p {
+    font-size: 20px;
+}
+
+.item {
+    order:1 ;
+    max-width: 30vw;
+}
+
+p {
+    text-shadow: 3px 2px black;
+    color:white;
+}
         
 
 #container {
