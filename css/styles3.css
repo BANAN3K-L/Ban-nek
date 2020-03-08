@@ -8,15 +8,7 @@ body {
     
     background-image:url(space.png);
     font-family:fantasy;}
-<<<<<<< HEAD
-    p {font-size: 6px;}
-=======
-    p {font-size: 12px;}
->>>>>>> 30792a84219dd80b87b9b915238dea5bd540e392
-    .item{
-        order:1 ;
         max-width: 30vw;
-    }
     p {
         text-shadow: 3px 2px black;
         color:white;}
