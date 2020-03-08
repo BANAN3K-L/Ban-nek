@@ -6,7 +6,7 @@ body{
     background-repeat: no-repeat;
     background-color: black;
     background-size: cover;
-    height: 130vh;
+    height: 100vh;
 }
 
 h1{
@@ -46,4 +46,10 @@ img{
 
 .item{
     margin: 0;
+}
+
+p{
+    color: white;
+    font-size: 2em;
+    width: 30vw;
 }

@@ -32,7 +32,7 @@ img {display:flex;
     width:30vw;}
 
     ul li{
-        text-align: left;
+        text-align: none;
         color: white;
         transition: 0.6s ease;
         font-size: 2em;

@@ -15,7 +15,9 @@ body {
     }
     p {
         text-shadow: 3px 2px black;
-        color:white;}
+        color:white;
+    }
+        
 
 #container {
     display: flex;
@@ -43,4 +45,3 @@ ul li:hover{
 a, a:visited, a:link {
     color: white;
 }
-img 
