@@ -19,7 +19,7 @@ body {
 
 #container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .item {
@@ -43,3 +43,4 @@ ul li:hover{
 a, a:visited, a:link {
     color: white;
 }
+img 
