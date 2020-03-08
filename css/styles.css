@@ -39,6 +39,11 @@ ul li:hover{
 
 }
 
+a:hover{
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
 a, a:visited, a:link {
     color: white;
 }
