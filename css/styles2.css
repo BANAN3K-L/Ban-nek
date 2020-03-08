@@ -8,7 +8,7 @@ body {
     
     background-image:url(space.png);
     font-family:fantasy;}
-    p {font-size: 1.5em;}
+    p {font-size: 20px;}
     .item{
         order:1 ;
         max-width: 30vw;
@@ -25,7 +25,7 @@ body {
 }
 
 .item {
-    margin: 0;
+    margin: 0em;
 }
 
 ul li{
@@ -45,3 +45,4 @@ ul li:hover{
 a, a:visited, a:link {
     color: white;
 }
+

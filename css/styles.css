@@ -8,7 +8,9 @@ body{
     background-size: cover;
     height: 100vh;
 }
-
+.planeta {
+    max-height: 5px;
+}
 h1{
     color: white;
     text-align: center;
